@@ -49,13 +49,15 @@ Projenin tüm fonksiyonlarını doğru bir şekilde test etmek için aşağıdak
 
 ### 4. Ders Atama Ekranı (Öğrenciye Ders Tanımlama)
 
-<img width="798" height="484" alt="ogrencinottakip4" src="https://github.com/user-attachments/assets/5e4d6368-7ec9-4441-aef9-b65eae50d567" />
+<img width="799" height="476" alt="ogrencinottakip4" src="https://github.com/user-attachments/assets/a4eb38dd-bd1b-4c92-943d-39f3922eeb96" />
+
+
 
 
 
 ### 5. Not Giriş ve Hesaplama Ekranı (Vize, Final, Büt Notları)
 
-<img width="807" height="484" alt="ogrencinottakip5" src="https://github.com/user-attachments/assets/9b496775-8d4f-4563-a26d-833dce4df5d8" />
+<img width="799" height="483" alt="ogrencinottakip5" src="https://github.com/user-attachments/assets/09a2ded1-94d7-4ef6-bdb0-3fe7ae7dc5e4" />
 
 
 
