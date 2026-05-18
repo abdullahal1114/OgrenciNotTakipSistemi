@@ -1,0 +1,14 @@
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\bin\Debug\ogrencinottakipsistemi.exe.config
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\bin\Debug\ogrencinottakipsistemi.exe
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\bin\Debug\ogrencinottakipsistemi.pdb
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.csproj.AssemblyReference.cache
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.Form1.resources
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.FrmAnaMenu.resources
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.Properties.Resources.resources
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.csproj.GenerateResource.cache
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.csproj.CoreCompileInputs.cache
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.exe
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.pdb
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.FrmDersler.resources
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.FrmNotlar.resources
+C:\Users\apoca\source\repos\ogrencinottakipsistemi\ogrencinottakipsistemi\obj\Debug\ogrencinottakipsistemi.FrmOgrenci.resources
