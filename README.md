@@ -1,7 +1,7 @@
 <img src="https://opengraph.githubassets.com/1/abdullahal1114/OgrenciNotTakipSistemi" alt="Social Preview" width="0" height="0" style="display:none;" />
 
 
-# Öğrenci Not Takip Sistemi
+## Öğrenci Not Takip Sistemi
 
 Bu proje, öğrencilerin sisteme kaydedilmesi, ders atamalarının yapılması ve seçilen derslere ait vize, final ve bütünleme (büt) notlarının yönetilmesini sağlayan masaüstü tabanlı bir **Windows Forms** uygulamasıdır. 
 
